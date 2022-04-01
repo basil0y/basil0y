@@ -25,7 +25,7 @@ Technologies learned in school or by myself :
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="75">](https://nodejs.org/en/)
 [<img src="https://jolicode.com/media/original/2013/10/homepage-docker-logo.png" width="75">](https://www.docker.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" width="75">](https://azure.microsoft.com/en-us/services/kubernetes-service/)
-[<img src="https://user.oc-static.com/upload/2019/06/13/15604452395031_15586239271382_gitlab-ci-cd-logo_2x.png" width="75">](https://docs.gitlab.com/ee/ci/)
+[<img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="75">](https://github.com/features/actions)
 [<img src="https://camo.githubusercontent.com/aeb4f612bd9b40d81c62fcbebd6db44a5d4344b8b962be0138817e18c9c06963/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67" width="75">](https://www.tensorflow.org/?hl=fr)
 [<img src="https://www.toolin.fr/wp-content/uploads/2021/08/ansible-logo.png" width="75">](https://docs.ansible.com/ansible/latest/index.html)
 

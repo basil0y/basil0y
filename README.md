@@ -7,7 +7,7 @@
 - 🛠️ I build distributed systems, internal tooling, and backend services in high-stakes, time-sensitive environments
 - 📊 Background spans equities execution, FIX protocol workflows, analytics platforms, and ETL/data pipelines
 - 🇫🇷 French native, fluent in English — experienced working across global teams (NY, Montréal, Paris)
-- 📧 Feel free to reach out via [email](mailto:basile.savinien@gmail.com) or [LinkedIn]([https://linkedin.com/in/basile-savinien](https://www.linkedin.com/in/basile-savinien-b9a04314b/))
+- 📧 Feel free to reach out via [email](mailto:basile.savinien@gmail.com) or [LinkedIn](https://www.linkedin.com/in/basile-savinien-b9a04314b)
 
 ---
 

@@ -1,38 +1,52 @@
-# Welcome to my profile !
+# Hi, I'm Basile 👋
 
+## About me
 
+- 🏦 Software Engineer with 4+ years of experience in **financial services**, focused on trading systems, execution services, and data platforms
+- 🗽 Based in **Brooklyn, NY** — previously worked at **Société Générale CIB** in New York and Montréal
+- 🛠️ I build distributed systems, internal tooling, and backend services in high-stakes, time-sensitive environments
+- 📊 Background spans equities execution, FIX protocol workflows, analytics platforms, and ETL/data pipelines
+- 🇫🇷 French native, fluent in English — experienced working across global teams (NY, Montréal, Paris)
+- 📧 Feel free to reach out via [email](mailto:basile.savinien@gmail.com) or [LinkedIn](https://linkedin.com/in/basile-savinien)
 
-## About
+---
 
-* 👨‍🎓 M.Sc. Student at Epitech Lille (FRANCE) specialized in Software engineering and application development (option Big Data and AI)
+## 🧰 Tech Stack
 
-* 🧑‍🔬Data Engineer at AG2R La Mondiale (insurance company), as part of my sandwich course, since January 2020
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 
-* ✈️ Looking for mission in the European Union or in Northern America for 2022
+### Data & Platforms
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+![Sybase](https://img.shields.io/badge/Sybase-SAP-blue?style=flat)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
-* 📂 I invite you to visit my public repositories, where you can see all my projects. Whether they are already developed, or under development.
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-* 📧 Many directories are private, and if you want to know more about me and these projects, I invite you to contact me by email or on linkedin!
+---
 
-## Technologies used
+## 💼 Experience highlights
 
-During my school time and professinal experience, I had the opportunities to learn several different technologies in different computing division.
+- ⚡ Built Python health checks & Jenkins pipelines at SocGen, cutting pre-market manual checks by 20%
+- 📨 Developed a FIX drop-copy service with Java Spring Boot & QuickFIX/J for equities trade capture
+- 🔁 Shipped reusable Java + Python libraries reducing code redundancy by 30% across analytics platforms
+- 🗄️ Optimized Sybase/PostgreSQL queries achieving up to 50% faster data retrieval
+- 📋 Delivered regulatory/compliance reporting and real-time observability tooling for trading desks
 
-Technologies learned in school or by myself :
+---
 
-[<img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" width="75">](https://reactjs.org/)
-[<img src="https://positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png" width="75">](https://vuejs.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="75">](https://nodejs.org/en/)
-[<img src="https://jolicode.com/media/original/2013/10/homepage-docker-logo.png" width="75">](https://www.docker.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" width="75">](https://azure.microsoft.com/en-us/services/kubernetes-service/)
-[<img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="75">](https://github.com/features/actions)
-[<img src="https://camo.githubusercontent.com/aeb4f612bd9b40d81c62fcbebd6db44a5d4344b8b962be0138817e18c9c06963/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f686f72697a6f6e74616c2e706e67" width="75">](https://www.tensorflow.org/?hl=fr)
-[<img src="https://www.toolin.fr/wp-content/uploads/2021/08/ansible-logo.png" width="75">](https://docs.ansible.com/ansible/latest/index.html)
+## 📂 Repositories
 
-Technologies I have professional experience in :
-
-[<img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" width="75">](https://www.oracle.com/fr/database/technologies/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SAP-Logo.svg/2560px-SAP-Logo.svg.png" width="75">](https://www.sap.com/products/bi-platform.html)
-[<img src="https://www.parc-consulting.com/wp-content/uploads/2019/06/oracle-data-integrator2-e1561567521747.png" width="75">](https://www.oracle.com/fr/integration/data-integrator-enterprise-edition/)
-[<img src="https://img2.freepng.fr/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" width="75">](https://www.oracle.com/fr/database/technologies/appdev/sqldeveloper-landing.html)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="75">](https://pandas.pydata.org/)
+Most of my professional work is private, but feel free to browse my public projects or reach out if you'd like to know more!

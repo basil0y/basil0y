@@ -1,17 +1,17 @@
-# Hi, I'm Basile 👋
+# Hi !
 
 ## About me
 
-- 🏦 Software Engineer with 4+ years of experience in **financial services**, focused on trading systems, execution services, and data platforms
-- 🗽 Based in **Brooklyn, NY** — previously worked at **Société Générale CIB** in New York and Montréal
-- 🛠️ I build distributed systems, internal tooling, and backend services in high-stakes, time-sensitive environments
-- 📊 Background spans equities execution, FIX protocol workflows, analytics platforms, and ETL/data pipelines
-- 🇫🇷 French native, fluent in English — experienced working across global teams (NY, Montréal, Paris)
-- 📧 Feel free to reach out via [email](mailto:basile.savinien@gmail.com) or [LinkedIn](https://www.linkedin.com/in/basile-savinien-b9a04314b)
+- Software Engineer with 4+ years of experience in **financial services**, focused on trading systems, execution services, and data platforms
+- Based in **Brooklyn, NY** — previously worked at **Société Générale CIB** in New York and Montréal
+- I build distributed systems, internal tooling, and backend services in high-stakes, time-sensitive environments
+- Background spans equities execution, FIX protocol workflows, analytics platforms, and ETL/data pipelines
+- French native, fluent in English — experienced working across global teams (NY, Montréal, Paris)
+- Feel free to reach out via [email](mailto:basile.savinien@gmail.com) or [LinkedIn](https://www.linkedin.com/in/basile-savinien-b9a04314b)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
@@ -37,16 +37,16 @@
 
 ---
 
-## 💼 Experience highlights
+## Experience highlights
 
-- ⚡ Built Python health checks & Jenkins pipelines at SocGen, cutting pre-market manual checks by 20%
-- 📨 Developed a FIX drop-copy service with Java Spring Boot & QuickFIX/J for equities trade capture
-- 🔁 Shipped reusable Java + Python libraries reducing code redundancy by 30% across analytics platforms
-- 🗄️ Optimized Sybase/PostgreSQL queries achieving up to 50% faster data retrieval
-- 📋 Delivered regulatory/compliance reporting and real-time observability tooling for trading desks
+- Built Python health checks & Jenkins pipelines at SocGen, cutting pre-market manual checks by 20%
+- Developed a FIX drop-copy service with Java Spring Boot & QuickFIX/J for equities trade capture
+- Shipped reusable Java + Python libraries reducing code redundancy by 30% across analytics platforms
+- Optimized Sybase/PostgreSQL queries achieving up to 50% faster data retrieval
+- Delivered regulatory/compliance reporting and real-time observability tooling for trading desks
 
 ---
 
-## 📂 Repositories
+## Repositories
 
 Most of my professional work is private, but feel free to browse my public projects or reach out if you'd like to know more!
